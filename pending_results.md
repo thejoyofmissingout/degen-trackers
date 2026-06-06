@@ -517,3 +517,4 @@ Format: `[date] Bet#[n] | [game] | [pick] | [result] | [units_profit]`
 - When a result is discovered: move the row from PENDING to RESOLVED, add result + P/L
 - Simultaneously update `tracker.json` with the same result
 - P/L formula: win at -110 = +0.91u per unit | win at +120 = +1.20u per unit | any loss = -units wagered
+# test
