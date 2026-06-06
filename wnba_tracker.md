@@ -151,6 +151,7 @@
 | Player | Team | Injury | Status | Updated |
 |--------|------|--------|--------|---------|
 | Napheesa Collier | Minnesota Lynx | Left ankle surgery (Mar 24) | OUT — targeting early June return (~first 10 games) | Apr 21 |
+| **Kahleah Copper** | **Phoenix Mercury** | **Left knee arthroscopy** | **OUT 4-6 weeks (confirmed June 5)** — **Fade PHX as fav; POR/thin-roster archetype active** | **Jun 5** |
 | Betnijah Laney-Hamilton | NY Liberty | Season-ending 2025 knee | TBD — monitor preseason | Apr 21 |
 | Nika Mühl | Portland Fire | ACL (2nd consecutive yr) | OUT indefinitely — possible mid-season | Apr 21 |
 | DiJonai Carrington | Chicago Sky | Left foot hardware removal | Monitor preseason | Apr 21 |
