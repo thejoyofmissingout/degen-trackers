@@ -11,6 +11,22 @@
 
 ---
 
+## Pitcher Stats — June 5, 2026 Research
+
+| Pitcher | Team | ERA | Notes |
+|---------|------|-----|-------|
+| Michael King | NYM | 3.18 | 4-4; solid, trending well |
+| Christian Scott | NYM | 2.97 | 1-0; elite ERA |
+| Roki Sasaki | NYM | 4.59 (May: 3.20) | 1.35 WHIP; improving trend |
+| Reid Detmers | LAA | 4.63 | 2-5 |
+| Merrill Kelly | ARI | 5.06 | 5-3 |
+| Foster Griffin | WAS | 3.76 | 6-2; road team |
+| Michael Wacha | SD | 3.23 ERA / 3.96 FIP | In top-30 FanGraphs leaderboard |
+
+*NYM @ SD (June 5): King/Scott/Sasaki starting for NYM vs Wacha (SD). Pitchers' duel — Under 7.5 (-122) triggered.*
+
+---
+
 ## Standings Snapshot (April 24, 2026 — ~25 games in)
 
 ### Notable Positions
