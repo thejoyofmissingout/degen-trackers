@@ -331,7 +331,7 @@ Select ~5 bets for the day:
 
 ### Tracker Update
 
-After displaying picks, read `~/.claude/skills/degen/tracker.json`. If it doesn't exist, create it:
+After displaying picks, read `~/.claude/skills/degen/leagues/tracker.json`. If it doesn't exist, create it:
 
 ```json
 {
