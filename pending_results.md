@@ -511,6 +511,18 @@ Format: `[date] Bet#[n] | [game] | [pick] | [result] | [units_profit]`
 
 ---
 
+## PENDING — June 5, 2026
+
+| Date | Bet# | Game | Pick | Odds | Units | Notes |
+|------|------|------|------|------|-------|-------|
+| 2026-06-05 | 1 | NYK @ SA (NBA Finals G2) | Under 214.5 | -110 | 1.5u | 8:30 PM ET · Frost Bank Center · Under Two Elite Defenses + historical Finals <220 pattern |
+| 2026-06-05 | 2 | NYM @ SD (MLB) | Under 7.5 | -122 | 1.0u | 9:40 PM ET · Petco Park · Scott 2.97 ERA vs King 3.18 ERA · Pitcher's Duel + park factor |
+| 2026-06-05 | 3 | PHX @ POR (WNBA) | Fire -2.5 | -110 | 1.0u | 10:00 PM ET · Moda Center · Copper OUT 4-6 wks (knee) + Whitcomb OUT · Thin Roster Star Scratch |
+| 2026-06-05 | 4 | CAR @ VGK (SCF G3) | Under 5.5 | -102 | 1.5u | Sat June 6 8 PM ET · T-Mobile Arena · RLM: 79-86% on Over; Hart bounce-back; Tort last change |
+| 2026-06-05 | 5 | NYK @ SA (NBA Finals G2) | Knicks +6.5 | +180 | 0.5u | 8:30 PM ET · Sharp signal: NYK sharper side; SA -230 meets Public Darling threshold |
+
+---
+
 ## HOW TO USE
 
 - At the start of every session, read this file before web searches
