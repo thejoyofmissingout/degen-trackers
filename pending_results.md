@@ -1,5 +1,5 @@
 # Pending Results Log
-*Last updated: 2026-06-06 | Season tracker: 92W-85L-2P +8.164u. NBA Finals: NYK vs SA, G1 NYK won 105-95 (Under 218.5 W +1.30u), G2 June 5 at NYK. SCF: CAR vs VGK tied 1-1 (VGK won G1 5-4, CAR won G2 4-3 OT Jarvis PP OT). G3 tonight at VGK 8 PM ET. WNBA Commissioner's Cup active. MLB regular season active.*
+*Last updated: 2026-06-05 | Season tracker: 92W-85L-2P +8.164u (pre-June 5 card). NBA Finals: NYK vs SA, G1 NYK won 105-95 (Under 218.5 W +1.30u), G2 tonight June 5 at SA (Frost Bank Center) 8:30 PM ET. SCF: CAR vs VGK tied 1-1. G3 Saturday June 6 at VGK 8 PM ET. WNBA Commissioner's Cup active. MLB regular season active.*
 
 Track outcomes here as they are discovered. Update tracker.json simultaneously.
 Format: `[date] Bet#[n] | [game] | [pick] | [result] | [units_profit]`
@@ -505,7 +505,7 @@ Format: `[date] Bet#[n] | [game] | [pick] | [result] | [units_profit]`
 | 2026-06-03 | 1 | NYK @ SA (NBA Finals G1) | Under 218.5 | ~-115 | 1.5u | **W +1.30u** — NYK 105-95 (total 200; Brunson 30pts) |
 | 2026-06-03 | 2 | TOR @ NY Liberty (WNBA) | Tempo +8.5 | ~-110 | 1.0u | **L -1.0u** — NYL 97-82; margin 15 (needed ≤8.5) |
 | 2026-06-03 | 3 | TOR @ NY Liberty (WNBA) | Tempo ML | ~+310 | 0.5u | **L -0.5u** — NYL won 97-82 |
-| 2026-06-03 | 6 | PHX @ SEA (WNBA) | Storm +7.5 | -110 | 0.5u | 10:00 PM ET · Climate Pledge Arena · Blowout Bounce-Back + Road Fav Fade |
+| 2026-06-03 | 6 | PHX @ SEA (WNBA) | Storm +7.5 | -110 | 0.5u | **W +0.45u** — PHX 72-68 SEA (margin 4; Storm covered +7.5) |
 | 2026-06-03 | 4 | PIT @ HOU (MLB) | Astros ML | +130 | 0.5u | 8:10 PM ET · Daikin Park · Arrighetti 1.34 ERA vs Skenes 2.89 |
 | 2026-06-03 | 5 | BAL @ BOS (MLB) | Red Sox -1.5 RL | +134 | 0.5u | 6:45 PM ET · Fenway Park · Tolle 2.61 vs Bassitt 5.06 (2.45 ERA gap) |
 
