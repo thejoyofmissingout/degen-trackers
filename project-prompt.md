@@ -3,8 +3,8 @@
 > **Mobile / Claude Project Edition**
 > This prompt is designed for Claude.ai Projects (web or mobile). All cached files are fetched via GitHub raw URLs — Claude reads them but **cannot write them back**. See **READ-ONLY MODE** notes below. Update tracker.json and league files manually on your Mac after each session.
 >
-> **GitHub raw URL base:** `https://raw.githubusercontent.com/thejoyofmissingout/YOUR-DEGEN-REPO/main/leagues/`
-> Replace `YOUR-DEGEN-REPO` with your actual repo name before using this prompt.
+> **GitHub raw URL base:** `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/leagues/`
+> Replace `degen-trackers` with your actual repo name before using this prompt.
 
 ---
 
@@ -67,16 +67,16 @@ Fetch cached files via WebFetch **only for active leagues identified in Step 0**
 > **READ-ONLY MODE:** These are GitHub raw URLs. You can read them; you cannot write them. Note any facts that need updating — output them at the end for manual update on the local machine.
 
 **Always fetch:**
-- `https://raw.githubusercontent.com/thejoyofmissingout/YOUR-DEGEN-REPO/main/leagues/README.md`
-- `https://raw.githubusercontent.com/thejoyofmissingout/YOUR-DEGEN-REPO/main/leagues/pending_results.md` — check for known results on open picks before any web searches
+- `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/leagues/README.md`
+- `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/leagues/pending_results.md` — check for known results on open picks before any web searches
 
 **Fetch only for active leagues:**
-- NBA active: `https://raw.githubusercontent.com/thejoyofmissingout/YOUR-DEGEN-REPO/main/leagues/nba.md` + `https://raw.githubusercontent.com/thejoyofmissingout/YOUR-DEGEN-REPO/main/leagues/nba_tracker.md`
-- NHL active: `https://raw.githubusercontent.com/thejoyofmissingout/YOUR-DEGEN-REPO/main/leagues/nhl.md` + `https://raw.githubusercontent.com/thejoyofmissingout/YOUR-DEGEN-REPO/main/leagues/nhl_tracker.md`
-- WNBA active: `https://raw.githubusercontent.com/thejoyofmissingout/YOUR-DEGEN-REPO/main/leagues/wnba.md` + `https://raw.githubusercontent.com/thejoyofmissingout/YOUR-DEGEN-REPO/main/leagues/wnba_tracker.md`
-- MLB active: `https://raw.githubusercontent.com/thejoyofmissingout/YOUR-DEGEN-REPO/main/leagues/mlb.md`
-- Active leagues — coaching context: `https://raw.githubusercontent.com/thejoyofmissingout/YOUR-DEGEN-REPO/main/leagues/coaching.md` (read only active league sections)
-- Active leagues — injuries: `https://raw.githubusercontent.com/thejoyofmissingout/YOUR-DEGEN-REPO/main/leagues/injuries.md` (read only active league sections)
+- NBA active: `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/leagues/nba.md` + `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/leagues/nba_tracker.md`
+- NHL active: `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/leagues/nhl.md` + `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/leagues/nhl_tracker.md`
+- WNBA active: `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/leagues/wnba.md` + `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/leagues/wnba_tracker.md`
+- MLB active: `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/leagues/mlb.md`
+- Active leagues — coaching context: `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/leagues/coaching.md` (read only active league sections)
+- Active leagues — injuries: `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/leagues/injuries.md` (read only active league sections)
 
 The `*_tracker.md` files contain ATS records, O/U trends, and team streaks — use them to skip web searches for historical trend data.
 
@@ -357,7 +357,7 @@ Select ~5 bets for the day:
 
 > **READ-ONLY MODE:** You cannot write tracker.json. Instead, output the full JSON for today's new picks as a fenced block. The user pastes this into their local tracker.json manually.
 
-Fetch the current tracker: `https://raw.githubusercontent.com/thejoyofmissingout/YOUR-DEGEN-REPO/main/tracker.json`
+Fetch the current tracker: `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/tracker.json`
 
 Then output the **new pick entries only** in a fenced block labeled `## tracker.json — paste these entries`:
 
