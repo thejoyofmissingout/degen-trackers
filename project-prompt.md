@@ -6,6 +6,8 @@
 > **GitHub raw URL base:** `https://raw.githubusercontent.com/thejoyofmissingout/degen-trackers/main/leagues/`
 >
 > **tracker.json — NOT AVAILABLE ON MOBILE:** Do not attempt to fetch tracker.json. The `update`, `results`, and `history` arguments depend on tracker.json and are silently unavailable in this environment. If any of those arguments are passed, skip them without comment and proceed with the normal picks workflow instead.
+>
+> **Trigger phrases:** "hey Vic", "degen", "/degen", "what are we betting today"
 
 ---
 
