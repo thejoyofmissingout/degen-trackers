@@ -487,3 +487,13 @@ Use today's date in the filename. No bet cards, no research breakdowns — summa
 - `/degen NBA` — NBA only
 - `/degen results 2026-04-12 3 W` — log Bet #3 from April 12 as a win
 - `/degen history` — show cumulative hit rate dashboard
+
+## Tracker Merge Command (canonical)
+
+tracker.json is a flat JSON array. Merge mobile-session entries with:
+
+```bash
+jq -s 'if (.[0]|type)=="array" then .[0] + .[1] | group_by([.date, .bet_num]) | map(last) else error("tracker.json is not an array - STOP, do not write") end' tracker.json new_entries.json > tmp.json && mv tmp.json tracker.json
+```
+
+Never use `jq '. + input'` — on object input it key-merges and silently fragments pick history (caused the June 2026 data loss).
