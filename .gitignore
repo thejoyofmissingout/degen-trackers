@@ -1,0 +1,7 @@
+.DS_Store
+cards/
+card.html
+generate_cards.py
+auto-push.sh
+sync-tracker.sh
+sync.sh
